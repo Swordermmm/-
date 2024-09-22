@@ -62,7 +62,7 @@ public class HelloWorld : MonoBehaviour
 
 ## Выводы
 
-Я ознакомился с работой Jupiter Notebook, Unity и GitHub, что в дальнейшем поможет в учёбе на курсе "Анализ данных в разработке игр"
+Я ознакомился с работой Jupiter Notebook, Unity и GitHub, что в дальнейшем поможет в учёбе на курсе "Анализ данных в разработке игр".
 
 ## Powered by
 
