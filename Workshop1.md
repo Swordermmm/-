@@ -59,7 +59,6 @@ public class HelloWorld : MonoBehaviour
 - Создать новый репозиторий, создать новый файл и скопировать в неё код с [репозитории](https://github.com/Den1sovDm1triy/DA-in-GameDev-lab1/blob/main/README.md).
 - Изменить для необходимые нужды данного отчёта.
 
-```
 
 ## Выводы
 
